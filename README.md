@@ -1,4 +1,4 @@
-# Motion-Control-System
+# Motion-System-Control
 
 Over the past few decades, computing systems have undergone substantial change. 
 Additionally, there has been an improvement in how people connect with machines. 
